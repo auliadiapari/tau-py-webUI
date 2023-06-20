@@ -1,5 +1,6 @@
 pytest
-requests
-playwright
+pytest-cov
+pytest-html
 pytest-playwright
-
+pytest-xdist
+requests
