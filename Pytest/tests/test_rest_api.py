@@ -29,3 +29,4 @@ def test_duckduckgo_instant_answer_api():
     # Assert
     assert response.status_code == 200
     assert 'Python' in body['AbstractText']
+    
